@@ -10,4 +10,4 @@ Open source initiatives that can help fighting against climate changes
 * http://www.tedy.io/demos/ClimateChange/
 * https://www.greenstand.org/
 * https://github.com/climanifeste/climanifeste
-* 
+* https://xkcd.com/1732/
